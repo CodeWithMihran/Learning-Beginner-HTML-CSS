@@ -1,13 +1,13 @@
-h1{
+#box{
+    background-color: blue;
+}
+.heading{
     color: red;
 }
-body{
-    background-color: gray;
-}
-p{
-    color:aqua;
-}
+/* h1, h2, h3{
+    color: red;
+} */
+
 button{
-    background-color: blanchedalmond;
-    color: black;
+    background-color: green;
 }
