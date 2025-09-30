@@ -1,11 +1,13 @@
-#one{
-    font-size: 22px;
-    line-height: 30px;
+*{
+    font-family: Times New Roman;
+}
+h1{
+    text-align: center;
     text-transform: capitalize;
 }
-#two{
-    font-size: 13px;
+#outer{
+    font-size: 25px;
 }
-#three{
+#inner{
     font-size: 10px;
 }
