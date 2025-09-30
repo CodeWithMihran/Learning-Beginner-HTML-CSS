@@ -67,4 +67,54 @@ a{
 #two{
     font-family: 'Segoe UI';
 } */
+/* 
+#one{
+    font-size: 22px;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+#two{
+    font-size: 13px;
+}
+#three{
+    font-size: 10px;
+} */
+
+/* Practice Sheet 2
+
+*{
+    font-family: Times New Roman;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+} */
+
+/* Border Properties
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+     border-width: 2px;
+    border-style: solid;
+    border-color: cyan; 
+    border: 2px solid cyan;
+    text-align: right;
+}
+h1{
+    width: 200px;
+    background-color: aquamarine;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: black; 
+    border: 3px dashed black;
+    text-align: center;
+} */
 
