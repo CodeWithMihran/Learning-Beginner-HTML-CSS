@@ -1,13 +1,19 @@
-*{
-    font-family: Times New Roman;
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: cyan; */
+    border: 2px solid cyan;
+    text-align: right;
 }
 h1{
+    width: 200px;
+    background-color: aquamarine;
+    /* border-width: 3px;
+    border-style: dashed;
+    border-color: black; */
+    border: 3px dashed black;
     text-align: center;
-    text-transform: capitalize;
-}
-#outer{
-    font-size: 25px;
-}
-#inner{
-    font-size: 10px;
 }
