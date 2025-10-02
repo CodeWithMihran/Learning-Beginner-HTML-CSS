@@ -234,3 +234,55 @@ button{
 #box3{
     background-color: red;
 } */
+
+/* Practice Sheet 4
+
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#navbar{
+    background-color: #0f1111;
+    height: 60px;
+}
+
+#logo{
+    color: #f08804;
+}
+
+button{
+    background-color: #f08804;
+}
+
+a{
+    margin-right: 200px;
+}
+
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 3px solid black;
+    display: inline-block;
+}
+
+#box1{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+#box2{
+    background-color: rgba(0, 255, 0, 0.5);
+}
+
+#box3{
+    background-color: rgba(0, 0, 255, 0.5);
+}
+
+main{
+    height: 720px;
+}
+
+footer{
+    background-color: #0f1111;
+} */
