@@ -308,3 +308,45 @@ footer{
     height: 100vh;
     width: 100vw;
 } */
+
+/* Position Concepts
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#box1{
+    position: static;
+}
+
+#box2{
+    position: relative;
+    top: 20px;
+    left: 50px;
+    z-index: 1;
+}
+
+#box3{
+    position: absolute;
+    top: 500px;
+    left: 20px;
+}
+
+#box4{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    bottom: 0;
+    width: 100%;
+    top: 0;
+}
+
+#box5{
+    position: sticky;
+    top:0;
+
+} */
