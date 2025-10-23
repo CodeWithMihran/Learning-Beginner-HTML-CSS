@@ -380,3 +380,62 @@ div{
     top: 50px;
     background-size: cover;
 } */
+
+
+/* FlexBox Properties 
+
+body{
+    text-align: center;
+}
+#mainbox{
+    display: flex;
+    height: 300px;
+    width: 900px;
+    border: 2px solid black;
+    flex-direction: row;
+    /* flex-direction: row-reverse;;
+    flex-direction: column;
+    flex-direction: column-reverse; 
+    /* flex-wrap: wrap; 
+
+    justify-content: center;
+    /* justify-content: space-around;
+    justify-content: space-between;
+    justify-content: space-evenly; 
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.box{
+    display: inline-block;
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+}
+
+#box1{
+    text-align: center;
+    background-color: aqua;
+    /* height: 50px; 
+}
+#box2{
+    text-align: center;
+    background-color: pink;
+    /* height: 200px; */
+    /* flex-shrink: 2; 
+}
+#box3{
+    text-align: center;
+    background-color: gray;
+    /* height: 100px; */
+    /* align-self: flex-end; 
+}
+#box4{
+    text-align: center;
+    background-color: red;
+    flex-grow: 1;
+}
+#box5{
+    text-align: center;
+    background-color: purple;
+} */
