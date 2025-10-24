@@ -6,19 +6,40 @@ div{
     position: absolute;
     top: 100px;
     left: 100px;
-    /* transform: rotate(90deg); */
-    /* rotate: x 150deg; */
-    /* transform: scale(2,3); */
-    /* transform: scaleX(2);
-    transform: scaleY(2); */
-    transition: all 1s ease-in;
+    /* animation-name: moveDiv;
+    animation-duration: 1.5s;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse; */
+    animation: moveDiv 1.5s ease-in 0s infinite alternate;
 }
 
-div:hover{
-    /* transform: scale(2); */
-    /* transform: rotate(180deg); */
-    /* transform: translateX(200px); */
-    /* transform: translateY(200px); */
-    /* transform: translate(200px, 200px); */
-    transform: skew(45deg);
+@keyframes bgcolorAnime {
+    from {background-color: grey;}
+    to {background-color: lightgreen;}
+}
+
+@keyframes moveDiv {
+    /* from {
+        left: 10px;
+        background-color: grey;
+    }
+    to {
+        left: 200px;
+        background-color: aquamarine;
+    } */
+
+    0% {
+        left: 10px;
+        background-color: grey;
+    }
+    50% {
+        left: 100px;
+        background-color: lightcoral;
+    }
+    100% {
+        left: 200px;
+        background-color: aquamarine;
+    }
 }
