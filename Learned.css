@@ -593,3 +593,52 @@ div:hover{
     /* transform: translate(200px, 200px); 
     transform: skew(45deg);
 } */
+
+
+/* Animation Properties
+
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: grey;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    /* animation-name: moveDiv;
+    animation-duration: 1.5s;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse; 
+    animation: moveDiv 1.5s ease-in 0s infinite alternate;
+}
+
+@keyframes bgcolorAnime {
+    from {background-color: grey;}
+    to {background-color: lightgreen;}
+}
+
+@keyframes moveDiv {
+    /* from {
+        left: 10px;
+        background-color: grey;
+    }
+    to {
+        left: 200px;
+        background-color: aquamarine;
+    } 
+
+    0% {
+        left: 10px;
+        background-color: grey;
+    }
+    50% {
+        left: 100px;
+        background-color: lightcoral;
+    }
+    100% {
+        left: 200px;
+        background-color: aquamarine;
+    }
+} */
